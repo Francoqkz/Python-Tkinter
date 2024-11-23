@@ -58,5 +58,5 @@ El nuevo código incluye mejoras y funcionalidades adicionales para mejorar la e
 
 ## Conclusión
 
-El nuevo código introduce mejoras significativas en usabilidad, seguridad y funcionalidad. Estas actualizaciones hacen que la aplicación sea más robusta, amigable y segura, mejorando la experiencia del usuario y cumpliendo mejores prácticas de programación.
+El nuevo código introduce grandes mejoras haciendo mas satisfactoria su usabilidad, seguridad y funcionalidad. Estas modificaciones hacen que la aplicación sea más robusta, amigable y segura, mejorando la experiencia del usuario.
 
